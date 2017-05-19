@@ -1,2 +1,3 @@
 # HouseRules-App
 An app for anyone who needs to set up rules and regulations
+This is the start of an app I am developing. It will be for anyone who has a set of rules, whether it be for your card game or your kids. Each person in the  party will have the app. It will come with a default set of rules and the ability to create an account to add your own set of rules. You'll use a simple pull down menu to choose the rules and then have the option to create 'offenses'. For instance if the rule is 'Home by 10pm' the actions for breaking the rule might be ' phone taken away', 'car taken away', or 'grounded'. If you click the second offense option additional actions may be added to the list.
